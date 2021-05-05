@@ -64,12 +64,12 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #F1F5F8;
+    background-color: #49a6e9;
 }
 
 h1 {
     font-size: 24px;
-    color: rgb(73, 166, 233);
+    color: #49a6e9;
 }
 
 h3 {
@@ -102,5 +102,5 @@ button:hover {
 }
 
 #hex {
-    color: rgb(73, 166, 233)
+    color: #49a6e9
 }
